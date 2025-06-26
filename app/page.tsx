@@ -17,10 +17,10 @@ async function getData(): Promise<DataType> {
         "Frontend Development",
         "App Development"
       ],
-      //"heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+      //"heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg", //Sameple
       //"heroImage": "https://drive.google.com/uc?export=download&id=1UQt7_B6QOWqz0MSFeQ7988nCs7ujU6Es", //emoji
       //"heroImage": "https://drive.google.com/uc?export=download&id=1cppRX0wwoJwvXmGE8ml-69peB6cqsUDc", //sample image
-      "heroImage": "https://drive.google.com/uc?export=download&id=1UFbqy05vxey-_1fjxjSELY5dwqk7m5pP", //College image
+      "heroImage": "https://drive.google.com/uc?export=download&id=1UFbqy05vxey-_1fjxjSELY5dwqk7m5pP", //College image 
       //"heroImage":"https://drive.google.com/uc?export=download&id=1cvnJ9dRI3j9vBSv2Mht5xqJFjxUHtVdq", //chitti eluka
       "techStackImages": [
         "https://img.icons8.com/color/144/000000/material-ui.png",
